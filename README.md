@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Hendra 👋
 
-<!--
-**XiaoAo-771/XiaoAo-771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me: Mahasiswa 
+- 🎓 Sedang belajar Web Development & Software Engineering di BNCC.
+- 💻 Peserta kelompok GitReady 2.0 Study Case.
+- 🛠️ Peran dalam Tim: Script Engineer.
 
-Here are some ideas to get you started:
+# Tech Stack & Tools
+- Bahasa Pemrograman: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤝 Connect with Me: **Instagram:** hen29017
+
