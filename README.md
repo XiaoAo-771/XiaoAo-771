@@ -16,5 +16,5 @@
 # 🤝 Connect with Me: 
 **Instagram:** hen29017
 **Email:** hendra.8765s@gmail.com
-**Github id:** XiaoAo-771
+**GitHub:** XiaoAo-771
 
