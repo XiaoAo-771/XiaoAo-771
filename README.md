@@ -13,6 +13,8 @@
 - Bahasa Pemrograman: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code
 
-# 🤝 Connect with Me: **Instagram:** hen29017
-
+# 🤝 Connect with Me: 
+**Instagram:** hen29017
+**Email:** hendra.8765s@gmail.com
+**Github id:** XiaoAo-771
 
